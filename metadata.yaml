@@ -1,0 +1,61 @@
+_repo: Roughing-It_3177
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 3177/3177-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Clemens, Samuel Langhorne
+    - Twain, Mark (Samuel Clemens)
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: "Roughing It is a book of semi-autobiographical travel literature written\
+  \ by American humorist Mark Twain. He wrote it during 1870–71 and published in 1872,\
+  \ as a prequel to his first book The Innocents Abroad (1869). This book tells of\
+  \ Twain's adventures prior to his pleasure cruise related in Innocents Abroad.\n\
+  Roughing It follows the travels of young Mark Twain through the Wild West during\
+  \ the years 1861–1867. After a brief stint as a Confederate cavalry militiaman (not\
+  \ included in the account), he joined his brother Orion Clemens, who had been appointed\
+  \ Secretary of the Nevada Territory, on a stagecoach journey west. Twain consulted\
+  \ his brother's diary to refresh his memory and borrowed heavily from his active\
+  \ imagination for many stories in the book.\nRoughing It illustrates many of Twain's\
+  \ early adventures, including a visit to Salt Lake City, gold and silver prospecting,\
+  \ real-estate speculation, a journey to the Kingdom of Hawaii, and his beginnings\
+  \ as a writer. This memoir provides examples of Twain's rough-hewn humor, which\
+  \ would become a staple of his writing in such later books as Adventures of Huckleberry\
+  \ Finn (1884), The Adventures of Tom Sawyer(1876), and A Connecticut Yankee in King\
+  \ Arthur's Court (1889).\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2004-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3177'
+  wikidata: Q3576767
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'West (U.S.) -- Description and travel'
+- !lcsh 'Twain, Mark, 1835-1910 -- Travel -- West (U.S.)'
+- !lcc 'PS'
+- !lcc 'E660'
+- !lcsh 'Authors, American -- Homes and haunts -- West (U.S.)'
+- !lcsh 'West (U.S.) -- Intellectual life -- 19th century'
+- GITenberg
+title: Roughing It
+url: http://www.gutenberg.org/ebooks/3177
+wikipedia:
+- https://fr.wikipedia.org/wiki/%C3%80_la_dure_(Mark_Twain)
+- https://zh.wikipedia.org/wiki/%E8%8B%A6%E8%A1%8C%E8%A8%98
+- https://es.wikipedia.org/wiki/Pasando_fatigas
+- https://en.wikisource.org/wiki/Roughing_It
+- https://en.wikipedia.org/wiki/Roughing_It
+- https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%BB%D0%B5%D0%B3%D0%BA%D0%B5
