@@ -1,10 +1,8 @@
 _repo: Roughing-It_3177
-_version: 0.1.0
+_version: 0.2.0
 covers:
 - cover_type: archival
-  image_path: 3177/3177-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 3177-h/images/bookcover.jpg
 creator:
   author:
     agent_name: Twain, Mark
@@ -32,6 +30,8 @@ description: "Roughing It is a book of semi-autobiographical travel literature w
   \ would become a staple of his writing in such later books as Adventures of Huckleberry\
   \ Finn (1884), The Adventures of Tom Sawyer(1876), and A Connecticut Yankee in King\
   \ Arthur's Court (1889).\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3177#Roughing-It
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2004-07-03'
 gutenberg_type: Text
